@@ -1,4 +1,4 @@
-#Airbnd experince clone
+# Airbnd experince clone
 
 about 
 - this is  class project from scrimba react course
@@ -16,4 +16,4 @@ what i learned
 
 images
 
-![screenshot](../build/images/screenshot.png)
+![screenshot](images/screenshot.png)
